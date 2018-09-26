@@ -19,8 +19,6 @@ The algorithms were developed and tested in GNU Octave 4.0.0, running in the ope
 
 For more details about the model, please consult the original reference:
 
-H. F. Chame, M. M. dos Santos, S. S. C. Botelho (2018) **Neural network for black-box fusion of underwater robot localization under unmodeled noise** *Robotics and Autonomous Systems*, Elsevier. doi: 10.1016/j.robot.2018.08.013
-
-Consult [online](https://www.sciencedirect.com/science/article/pii/S0921889018302926).
+H. F. Chame, M. M. dos Santos, S. S. C. Botelho (2018) [Neural network for black-box fusion of underwater robot localization under unmodeled noise](https://www.sciencedirect.com/science/article/pii/S0921889018302926) *Robotics and Autonomous Systems*, Elsevier. doi: 10.1016/j.robot.2018.08.013
 
 
