@@ -4,7 +4,8 @@ The research on autonomous robotics has focused on the aspect of information fus
 
 ## Project content
 
-In this repository you will find the GNU Octave implementation of the framework proposed for the simulation and the experimental studies.
+In this repository you will find the GNU Octave implementation of the framework proposed for the simulation and the experimental studies. Watch the project video by clicking on the image bellow
+
 
 [![Watch the video about the work proposal](Images/setup.png)](https://www.youtube.com/watch?v=aOPSj8vMPnM&t=5s)
 
@@ -18,7 +19,8 @@ The algorithms were developed and tested in GNU Octave 4.0.0, running in the ope
 
 For more details about the model, please consult the original reference:
 
-*Neural network for black-box fusion of underwater robot localization under unmodeled noise
+Neural network for black-box fusion of underwater robot localization under unmodeled noise
 Hendry Ferreira Chame, Matheus Machado dos Santos, Sílvia Silva da Costa Botelho
-Robotics and Autonomous Systems, Elsevier, 2018. doi: 10.1016/j.robot.2018.08.013*
+*Robotics and Autonomous Systems*, Elsevier, 2018. doi: 10.1016/j.robot.2018.08.013
+https://www.sciencedirect.com/science/article/pii/S0921889018302926
 
